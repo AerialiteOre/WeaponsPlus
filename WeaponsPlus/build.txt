@@ -1,0 +1,4 @@
+displayName = WeaponsPlus
+author = Ender play
+version = 0.2
+homepage = https://steamcommunity.com/profiles/76561199003062651/
